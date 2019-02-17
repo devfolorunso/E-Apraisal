@@ -1,0 +1,112 @@
+body{
+	margin:0px;
+	background-color:rgba(0,0,0,0.2);
+}
+
+
+.nav{
+	background-color:#fff !important;
+	color: #111 !important;
+	padding: 5px;
+	text-align: center;
+	border-bottom: 2px solid #0091d5;
+	border-top: 2px solid #0091d5;
+
+}
+
+
+.nav a{
+	color: #fff !important;
+}
+
+.nav a:hover{
+	background-color:#DADADA !important;
+	color: #111	 !important;
+
+}
+
+.nav > li > a {
+	border-left-color: #fff;
+
+}
+
+.nav-tabs > li.active > a{
+	background-color:#A3A5A7 !important;
+
+}
+	.first{
+	background-color:#CED2CC !important;
+
+	}
+	.second{
+	background-color:#488A99 !important;
+
+}
+
+.third{
+	background-color:#484848!important;
+}
+.fourth{
+	background-color:#20283E!important;
+
+}
+.fifth{
+	background-color:#484846!important;
+}
+.tab-ico{
+	width: 20px;
+	height: 20px;
+
+}
+.ppanel{
+	background-color:#488A99;
+}
+
+.panel,.jumb{
+	margin-top: 5%;
+}
+.jumbotron{
+	
+	background-color:#20283E!important;
+	color: #fff;		
+}
+
+
+.media-object{
+	width: 64px;
+	height: 64px;
+	border-radius: 40%;
+}
+form{
+	width:50%;
+}
+
+input,select{
+	width:50%;
+}
+
+.container-fluid{
+	width:100%;
+	margin-top: 3%;
+	padding:10px;
+	box-shadow: 2px 2px 5px #111;;
+}
+.vewbtn{
+	background-color:#488A99 !important;
+	color: #ffffff;
+}
+.regbtn{
+	background-color:#488A99 !important;
+	color: #ffffff;
+	margin-top: 12%;
+	width:100% !important;
+}
+
+.float-left{
+	margin-right:25%;
+	margin-left:10%;
+}
+.float-right{
+	margin-left: 25%;
+
+}

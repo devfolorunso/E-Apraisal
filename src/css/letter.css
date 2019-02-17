@@ -1,0 +1,33 @@
+body{
+	margin:0px
+	background-color:111;
+}
+
+html{
+	overflow-x: hidden;
+}
+
+.letter-body{
+	font-size: 18px;
+	text-align: justify-all;
+	word-spacing: 5px;
+	line-height: 35px;
+
+}
+
+.letter-head{
+	text-align: center;
+	word-spacing: 5px;
+	font-weight: bold;
+	font-size: 30px;
+	margin-top:3%;
+	margin-bottom: 5%;
+	font-family:'Merienda One';
+}
+
+.letter-address{
+	text-align: justify;
+	word-spacing: 5px;
+	line-height: 30px;
+	font-size: 18px;
+}

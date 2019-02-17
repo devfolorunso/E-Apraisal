@@ -1,0 +1,44 @@
+body{
+	margin:0px;
+}
+
+.details{
+	font-size: 15px !important;
+	color: #111;
+	line-height: 35px;
+	text-align: justify;
+	word-spacing:3.5px;
+}
+.close{
+	color:#161616 !important;
+	font-size: 28px !important;
+}
+
+
+.staff-jumb{
+	background-color:transparent !important;
+	box-shadow:  1px 1px 5px 3px rgba(0,0,0,0.2);
+}
+
+.details-jumb{
+	background-color:transparent !important;
+	box-shadow:  1px 1px 5px 3px rgba(0,0,0,0.2);
+}
+
+.bio-jumb{
+	background-color:transparent !important;
+	box-shadow:  1px 1px 5px 3px rgba(0,0,0,0.2);
+}
+.cert-jumb{
+	background-color:transparent !important;
+	box-shadow:  1px 1px 5px 3px rgba(0,0,0,0.2);
+	text-align: center;
+	color: #111;
+}
+
+.badge{
+	color: #fff;
+	background-color: #214761;
+	font-size: 12px;
+}
+

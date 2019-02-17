@@ -1,0 +1,44 @@
+body{
+	margin:0px;
+	background-color:rgba(0,0,0,0.2);
+	color: #fff;	
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
+.staff-pic{
+	width: 200px;
+	height: 200px;
+	/*border-:#484846;*/
+	border: 2px solid #111;
+}
+
+.container{
+	margin-top: 5%;
+	background-color:#20283E!important;
+	}
+
+.container-float{
+	display: inline-flex;
+}
+
+
+
+.jumbotron {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: #fff;
+  background-color: #20283E !important;
+	box-shadow: 1px 0px 9px 4px rgba(0,0,0,0.2)
+
+}
+.mb-3{
+	color: #fff !important;
+}
+
+.fa{
+	font-size:15px !important;
+}
